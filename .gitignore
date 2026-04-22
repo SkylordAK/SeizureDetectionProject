@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+Recordings/
+processed_data.csv
+seizure_model.pkl
+*.csv
+*.log
+.DS_Store
